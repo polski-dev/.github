@@ -1,4 +1,6 @@
-# Hello man! on POLSKI.DEV 👋
+### Hello man! 👋
+
+# Live : [polski.dev](https://www.polski.dev)
 
 ### 🙋‍♀️ A short introduction - what is Polski.dev all about?
 
